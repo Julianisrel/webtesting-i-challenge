@@ -10,8 +10,9 @@ Some of the topics covered were:
 - the _Test Driven Development (TDD)_ workflow.
 
 ## Instructions
-
 **Read these requirements carefully. Understand exactly what is expected _before_ starting.**
+
+
 
 You are allowed, and encouraged, to collaborate with your peers while working on this assignment. Remember to follow the _twenty-minute rule_ and post questions to your cohort's help channel before seeking support from your PM and Instructor.
 
